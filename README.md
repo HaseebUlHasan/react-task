@@ -33,7 +33,7 @@ npm run dev / yarn dev
 
 ## Deployment
 
-This application is deployed on Vercel. You can visit it at: https://react-task-six-mauve.vercel.app
+This application is deployed on Vercel. You can visit it at: https://haseeb-react-task.vercel.app
 
 ## Project Structure
 
